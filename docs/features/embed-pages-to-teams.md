@@ -17,7 +17,7 @@ Use the steps defined in this article on embedding any modern SharePoint Portal 
 
 ![Image showing a site footer with a logo](../images/teams-pages-embed.png)
 
-VIDEO
+VIDEO 
 
 You can embed any modern page on Microsoft Teams by creating a Teams Personal App and manually create the needed configuration for this custom setup. Be aware of the following considerations.  
 
