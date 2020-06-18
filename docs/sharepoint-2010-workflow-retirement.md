@@ -70,7 +70,7 @@ For additional info, see the following communication sites:
 
 ## Timeline
 
-- Starting August 1st 2020, SharePoint 2010 workflows will be turned off for any newly created tenants.
+- Starting August 1st 2020, SharePoint 2010 workflows will be turned off for any newly-created tenants.
 
 - Starting November 1st 2020, SharePoint 2010 workflow services will be removed from existing tenants and available for any download.
 
